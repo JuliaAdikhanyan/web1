@@ -1,0 +1,328 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+
+    background: #212429;
+
+    margin: auto;
+
+    position: relative;
+    width: 1600px;
+    height: 2920px;
+}
+
+.menu {
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: #FFFFFF;
+}
+
+.aboutMe {
+    position: absolute;
+    width: 132px;
+    height: 32px;
+    left: 250px;
+    top: 45px;
+}
+
+.projects {
+    position: absolute;
+    width: 132px;
+    height: 32px;
+    left: 460px;
+    top: 45px;
+}
+
+.education {
+    position: absolute;
+    width: 178px;
+    height: 32px;
+    left: 670px;
+    top: 45px;
+}
+
+.skills {
+    position: absolute;
+    width: 120px;
+    height: 32px;
+    left: 926px;
+    top: 45px;
+}
+
+.contacts {
+    position: absolute;
+    width: 126px;
+    height: 32px;
+    left: 1124px;
+    top: 45px;
+}
+
+.myName {
+    position: absolute;
+    width: 536px;
+    height: 153px;
+    left: 337px;
+    top: 305px;
+
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 59px;
+
+    color: #DBC7AD;
+
+}
+
+.photo {
+    position: absolute;
+    width: 282px;
+    height: 292px;
+    left: 905px;
+    top: 249px;
+}
+
+.aboutMeHeading {
+    position: absolute;
+    width: 266px;
+    height: 63px;
+    left: 250px;
+    top: 750px;
+
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 59px;
+
+    color: #DBC7AD;
+}
+
+.aboutMeText {
+    position: absolute;
+    width: 1000px;
+    height: 73px;
+    left: 250px;
+    top: 840px;
+
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: #FFFFFF;
+}
+
+.animalHeading {
+    position: absolute;
+    width: 400px;
+    height: 46px;
+    left: 251px;
+    top: 940px;
+
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 44px;
+
+    color: #DBC7AD;
+}
+
+.animal {
+    position: absolute;
+    width: 393px;
+    height: 170px;
+    left: 250px;
+    top: 1000px;
+
+    color: #FFFFFF;
+}
+
+.skillsHeading {
+    position: absolute;
+    width: 211px;
+    height: 36px;
+    left: 250px;
+    top: 1310px;
+
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 44px;
+
+    color: #DBC7AD;
+}
+
+.skillsText {
+    position: absolute;
+    width: 350px;
+    height: 319px;
+    left: 250px;
+    top: 1369px;
+
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: #FFFFFF;
+}
+
+.companiesHeading {
+    position: absolute;
+    width: 350px;
+    height: 36px;
+    left: 900px;
+    top: 1310px;
+
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 44px;
+
+    color: #DBC7AD;
+}
+
+ol {
+    position: absolute;
+    width: 350px;
+    height: 319px;
+    left: 901px;
+    top: 1369px;
+
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: #FFFFFF;
+}
+
+.contactsHeading {
+    position: absolute;
+    width: 370px;
+    height: 58px;
+    left: 250px;
+    top: 2308px;
+
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 59px;
+
+    color: #DBC7AD;
+}
+footer {
+    position: absolute;
+    width: 267px;
+    height: 29px;
+    left: 983px;
+    top: 2837px;
+
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 29px;
+    display: flex;
+    align-items: flex-end;
+    text-align: right;
+
+    color: #FFFFFF;
+}
+
+.projectsHeading {
+    position: absolute;
+    width: 266px;
+    height: 63px;
+    left: 251px;
+    top: 1598px;
+
+    /*font-weight: bold;
+    font-size: 48px;
+    line-height: 59px;
+
+    color: #DBC7AD;*/
+}
+
+.projectsText {
+    position: absolute;
+    width: 1000px;
+    height: 73px;
+    left: 251px;
+    top: 1688px;
+
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: #FFFFFF;
+}
+
+.educationHeading {
+    position: absolute;
+    width: 370px;
+    height: 58px;
+    left: 250px;
+    top: 1758px;
+
+    /*font-weight: bold;
+    font-size: 48px;
+    line-height: 59px;*/
+
+    color: #DBC7AD;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 59px;
+
+    color: #DBC7AD;
+
+}
+
+.educationText {
+    position: absolute;
+    width: 532px;
+    height: 61px;
+    left: 250px;
+    top: 1862px;
+
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 44px;
+    display: flex;
+    align-items: center;
+
+    color: #FFFFFF;
+}
+
+.educationYears {
+    position: absolute;
+    width: 356px;
+    height: 61px;
+    left: 782px;
+    top: 1862px;
+
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 44px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.knowledgeHeading {
+    position: absolute;
+    width: 370px;
+    height: 58px;
+    left: 251px;
+    top: 1968px;
+
+}
+
+ul {
+    position: absolute;
+    width: 1000px;
+    height: 223px;
+    left: 251px;
+    top: 2058px;
+
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 29px;
+
+    color: #FFFFFF;
+}
